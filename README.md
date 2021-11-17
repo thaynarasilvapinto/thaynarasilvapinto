@@ -1,4 +1,5 @@
 ## Oie eu sou a Thay, sou uma dev backend que gosta muito de pessoas e códigos!
+
 <div align="center">
   <a href="https://github.com/thaynarasilvapinto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynarasilvapinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,6 +11,9 @@
   <img align="center" alt="Thay-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Thay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Thay-docker" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="Thay-spring" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
+  <img align="center" alt="Thay-postgress" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
 </div>
 
 ##
